@@ -1,6 +1,6 @@
 #!/bin/bash
 
-X=2
+X=20
 while test $X != 0
 	do
 	start notepad.exe

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cd ~/Desktop/
-N=5
+N=500
 while test $N != 0
 	do
 	touch fichier"$N"
